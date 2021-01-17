@@ -2,6 +2,8 @@
 
 *Cloud Computing projects using Azure*
 
+[`Cloud Computing Basics`](https://github.com/monisha-anila/Azure-Fundamentals/blob/master/Cloud%20Service%20%5BMonisha%20Anila%5D.pdf)
+
 ## Minor Projects
 [`Communication between two different Azure sites with Private IPs in same Azure Cloud`](https://github.com/monisha-anila/Azure-Fundamentals/blob/master/MINOR%20PROJECT%20-1.pdf)
 
